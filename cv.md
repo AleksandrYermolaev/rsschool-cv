@@ -8,3 +8,17 @@
 
 ## About me
 I am from Donetsk. I have been working in the field of fire safety for the last 6 years. I have been wanting to study programming and development for more than a year, but I have always lacked motivation. After hearing about the RS School courses and getting a lot of positive feedback, I just got excited about it. I have an analytical mindset, and my professional activity has developed in me the skills of attention to detail and exactingness to myself. I hope these qualities will help me achieve my goals.
+## Skills
+### Hard skills
+   * HTML, CSS
+   * CSS Preprocessors (SASS, SCSS)
+   * Vanilla JS
+   * Photoshop
+   * Git (GitHub)
+   * VS Code
+
+### Soft skills
+   * Fast learning / lifelong education
+   * Responsible, punctual, executive
+   * Stress resistant
+   * Openness to criticism
