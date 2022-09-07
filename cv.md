@@ -22,3 +22,35 @@ I am from Donetsk. I have been working in the field of fire safety for the last 
    * Responsible, punctual, executive
    * Stress resistant
    * Openness to criticism
+
+## Code examples
+
+```
+function deepCount (a, b = 0) {
+  let count = b;
+  a.forEach(value => {
+    if (Array.isArray(value)) {
+      count = count + 1;
+      count = deepCount(value, count);
+    } else {
+      count = count + 1;
+    }
+  });
+  return count;
+}
+```
+## Study projects
+1) Study landing [Travel](https://aleksandryermolaev.github.io/JSFEPRESCHOOL2022Q2/travel/)
+2) Study app [Momentum](https://aleksandryermolaev-momentum.netlify.app/)
+3) Study app [Eldrich-Helper](https://aleksandryermolaev.github.io/eldritch-codejam/)
+
+## Education
+1) 2014 Ukraine Academy of сustoms, bachelor
+2) 2015 University of customs and finance, master's degree
+3) 2020 Аcademy of civil protection, specialist qualification
+4) The Rollong Scope School courses:
+      * 2022 JS/FE Stage 0
+      * ... to be continued...
+
+## English
+B2 on Listening Section, C1 on Reading Section according to the [CERF test](https://www.efset.org/cert/fdFwvR).
